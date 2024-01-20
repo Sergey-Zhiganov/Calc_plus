@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\МПТ\C++\Калькулятор\x64\Debug\Калькулятор.exe
+C:\Users\User\Desktop\МПТ\МДК 01\C++\Калькулятор\x64\Debug\Калькулятор.exe
