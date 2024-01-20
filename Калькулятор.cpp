@@ -61,9 +61,9 @@ int main()
         cout << "-----" << endl;
         break;
     case 5:
-        cout << "Введите первое число: ";
+        cout << "Введите число: ";
         cin >> a;
-        cout << "Введите второе число: ";
+        cout << "Введите степень: ";
         cin >> b;
         cout << "Ответ: " << pow(a, b) << endl;
         cout << "-----" << endl;
